@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meu Primeiro App Dio</string>
+    <string name="greeting">Olá mundo</string>
+</resources>
